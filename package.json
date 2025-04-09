@@ -15,5 +15,9 @@
     "url": "https://github.com/s5198653/hexlet-testing-library/issues"
   },
   "homepage": "https://github.com/s5198653/hexlet-testing-library#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "vitest": "^3.1.1",
+    "vitest-preview": "^0.0.1"
+  }
 }
