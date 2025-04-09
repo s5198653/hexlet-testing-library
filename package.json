@@ -17,9 +17,14 @@
   "homepage": "https://github.com/s5198653/hexlet-testing-library#readme",
   "description": "",
   "devDependencies": {
+    "@eslint/js": "^9.24.0",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/user-event": "^14.6.1",
+    "eslint": "^9.24.0",
+    "eslint-plugin-jest-dom": "^5.5.0",
+    "eslint-plugin-testing-library": "^7.1.1",
+    "globals": "^16.0.0",
     "vitest": "^3.1.1",
     "vitest-preview": "^0.0.1"
   }
